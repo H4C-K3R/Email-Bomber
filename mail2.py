@@ -20,7 +20,7 @@ server.starttls()
 
 # Login
 print(Fore.CYAN + "[*] Logging in...")
-server.login("shawon256@gmail.com", "bojegyboswyqspxl")
+server.login("lamiya1234564@gmail.com", "bjnedmijdpwayvtl")
 print(Fore.GREEN + "[✓] Login successful!\n")
 
 # Inputs

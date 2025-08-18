@@ -3,7 +3,8 @@ Powerful Email Bomber
 
 # Install 
 ```
-git clone https://github.com/BadBoy9399/Email-Bomber
+git clone https://github.com/H4C-K3R/Email-Bomber
 cd Email-Bomber
-python mail2.py
+python mail.py
 ```
+# This Tools only Pranks 
